@@ -1,0 +1,68 @@
+body{
+background-image: url("https://th.bing.com/th/id/R.afaaf217ff76245710f73eedf1dde85b?rik=bSr7nZXqZ9n%2bXQ&riu=http%3a%2f%2fyesofcorsa.com%2fwp-content%2fuploads%2f2017%2f01%2fVape-Wallpaper-Free-Download.jpg&ehk=7OgwYy%2bQhlk9z0izhcgDfDLXMRdueyHlfxH4g%2b6Uogk%3d&risl=&pid=ImgRaw&r=0");
+background-size: cover;
+background-attachment: fixed;
+background-position: 0 -20px;
+
+}
+
+h1{
+   text-align: center;
+   font-size: 70px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ color: rgb(11, 6, 114);
+}
+.container{
+    position: absolute;
+    top: 180px;
+    width: 90%;
+    margin-left: 60px;
+    box-shadow: 0 0 10px;
+    border-radius: 10px;
+    z-index: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    padding: 20px;
+}
+.container img{
+width: 200px;
+height: 100;
+}
+.container th{
+    padding-left: 150px;
+    color: rgb(21, 2, 41);
+}
+.container td{
+    padding-left: 150px;
+}
+.btn-cont{
+    display:flex ;
+    justify-content: space-around;
+    width: 100px;
+    height: 40px;
+    background : transparent;
+    border: 0.2px solid;
+box-shadow: 0px 10px 20px;
+margin-top: 20px;
+border-radius: 40px;
+margin-right: 20px;
+align-items: center;
+
+}
+.del{
+    display:flex ;
+    justify-content: space-around;
+    width: 100px;
+    height: 40px;
+    background : transparent;
+    border: 0.2px solid;
+box-shadow: 0px 10px 20px;
+margin-top: 20px;
+border-radius: 40px;
+margin-right: 50px;
+align-items: center;
+padding-left: 10px;
+}
+.tot{
+margin-right
+}
